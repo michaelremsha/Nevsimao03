@@ -29,7 +29,7 @@
 
 ### Fun Facts
 
-- 🔭 I just deployed my fist project: [Simon Game!][game]!
+- 🔭 I just deployed my fist project: [Simon Game!][game]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Build more projects and get first dev job
 - ⚡ I love trading and ftness
