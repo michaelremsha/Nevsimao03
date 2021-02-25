@@ -2,7 +2,7 @@
 
 [Website](https://nevsimao.io)
 
-## I'm a Fullstack Developer who enjoys writing clean code while turning complex problems into simple!
+## I'm a Fullstack Developer who enjoys writing clean code while turning complex problems into simple problems!
 
 ---
 
