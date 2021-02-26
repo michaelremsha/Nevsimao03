@@ -1,6 +1,6 @@
 ### Hi there, I'm Simao - aka [Simi][website] 👋
 
-[Website](https://nevsimao.io)
+[Website](https://nevsimao.i)
 
 ## I'm a Fullstack Developer who enjoys writing clean code while turning complex problems into simple problems!
 
@@ -72,6 +72,6 @@
 
 </details>
 
-[website]: https://nevsimao.io
+[website]: https://nevsimao.i
 [game]: https://nevsimao.ga
 [linkedin]: https://www.linkedin.com/in/simao-neves-6a2573205/
