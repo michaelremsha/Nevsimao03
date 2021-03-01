@@ -74,4 +74,4 @@
 
 [website]: https://nevsimao.i
 [game]: https://nevsimao.ga
-[linkedin]: https://www.linkedin.com/in/simao-neves-6a2573205/
+[linkedin]: https://www.linkedin.com/in/simao-neves/
