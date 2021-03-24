@@ -49,9 +49,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Advancing my JS skills
-- Learning ReactJS
-- Building one project per week
+- Advancing my Node.js skills
+- Learning React
 <!-- BLOG-POST-LIST:END -->
 
 ---
