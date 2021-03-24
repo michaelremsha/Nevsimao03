@@ -29,9 +29,9 @@
 
 ### Fun Facts
 
-- 🔭 I just deployed my fist project: [Simon Game!][game]
+- 🔭 I just deployed my second project: [SF Facilities Map!][map]
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Build more projects and get first dev job
+- 🥅 2021 Goals: Build more projects and get a job
 - ⚡ I love trading and fitness
 
 ---
@@ -73,5 +73,5 @@
 </details>
 
 [website]: https://nevsimao.i
-[game]: https://nevsimao.ga
+[map]: https://sf-facilities.ga
 [linkedin]: https://www.linkedin.com/in/simao-neves/
