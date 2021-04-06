@@ -51,7 +51,6 @@
 
 - Learning Python
 - Learning Algorithms
-- 
 <!-- BLOG-POST-LIST:END -->
 
 <details>
