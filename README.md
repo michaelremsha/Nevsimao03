@@ -1,6 +1,6 @@
 ### Hi there, I'm Simao - aka [Simi][website] 👋
 
-[Website](https://nevsimao.i)
+[Website](https://nevsimao.com)
 
 ## I'm a Back-End Developer who enjoys writing clean code while turning complex problems into simple problems!
 
@@ -29,16 +29,16 @@
 
 ### Fun Facts
 
-- 🔭 I just deployed my second project: [SF Facilities Map!][map]
+- 🔭 Latest project: [BOAT][BOAT]
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Build more projects and get a job
+- 🥅 2021 Goals: Build more projects
 - ⚡ I love trading and fitness
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="nevsimao.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nevsimao.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nevsimao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -49,20 +49,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Advancing my Node.js skills
-- Learning React
+- Learning Python
+- Learning Algorithms
+- 
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<details>
-<summary>Top Languages</summary>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevsimao03&layout=compact&show_icons=true&theme=dark)
-
-</details>
-
----
 
 <details>
   <summary>GitHub Stats</summary>
@@ -71,6 +61,6 @@
 
 </details>
 
-[website]: https://nevsimao.i
-[map]: https://sf-facilities.ga
+[website]: https://nevsimao.com
+[BOAT]: https://boat-dashboard.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/simao-neves/
