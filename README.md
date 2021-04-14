@@ -2,7 +2,7 @@
 
 [Website](https://nevsimao.com)
 
-## I'm a Back-End Developer who enjoys writing clean code while turning complex problems into simple problems!
+## I'm a Back-End Developer who enjoys writing clean code while turning complex problems into simple solutions!
 
 ---
 
