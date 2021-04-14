@@ -1,4 +1,4 @@
-### Hi there, I'm Simao - aka [Simi][website] 👋
+<h3 align=center>Hi there, I'm Simao - aka Simi 👋</h3>
 
 [Website](https://nevsimao.com)
 
@@ -57,7 +57,13 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Nevsimao03's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nevsimao03&show_icons=true&hide_border=true?count_private=true&show_icons=true&theme=dark" />
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevsimao03&show_icons=true&hide_border=true?count_private=true&show_icons=true&theme=dark)](https://github.com/yourUserName/github-readme-stats)
+
+</details>
+<details>
+  <summary>Most Used Languages</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevsimao03&theme=dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/Nevsimao03/github-readme-stats)
 
 </details>
 
