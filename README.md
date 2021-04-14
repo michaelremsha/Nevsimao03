@@ -50,8 +50,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Learning Python
-- Learning Algorithms
+- Python
+- Algorithms
 <!-- BLOG-POST-LIST:END -->
 
 <details>
