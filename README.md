@@ -63,7 +63,7 @@
 <details>
   <summary>Most Used Languages</summary>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nevsimao03&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevsimao03&layout=compact&theme=github_dark)](https://github.com/Nevsimao03/github-readme-stats)
 
 </details>
 
