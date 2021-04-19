@@ -57,13 +57,13 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevsimao03&show_icons=true&hide_border=true?count_private=true&show_icons=true&theme=dark)](https://github.com/yourUserName/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevsimao03&theme=github_dark)
 
 </details>
 <details>
   <summary>Most Used Languages</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevsimao03&theme=dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/Nevsimao03/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nevsimao03&theme=github_dark)
 
 </details>
 
