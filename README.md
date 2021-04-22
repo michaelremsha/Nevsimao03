@@ -29,7 +29,7 @@
 
 ### Fun Facts
 
-- 🔭 Latest project: [BOAT][BOAT]
+- 🔭 Latest projects: [Talk][TALK] & [AMZscraper][amzScraper]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Build more projects
 - ⚡ I love trading and fitness
@@ -67,5 +67,6 @@
 </details>
 
 [website]: https://nevsimao.com
-[BOAT]: https://boat-dashboard.herokuapp.com/
+[amzScraper]: https://github.com/Nevsimao03/amzScraper
+[TALK]: https://github.com/Nevsimao03/talk/tree/main/the-talk
 [linkedin]: https://www.linkedin.com/in/simao-neves/
