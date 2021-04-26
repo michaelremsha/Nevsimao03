@@ -59,12 +59,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevsimao03&theme=github_dark)
 
 </details>
-<details>
-  <summary>Most Used Languages</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevsimao03&theme=github_dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [website]: https://nevsimao.com
 [amzScraper]: https://github.com/Nevsimao03/amzScraper
